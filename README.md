@@ -2,8 +2,9 @@
 - 👀 I’m interested in Blockchain technology
 - 🌱 I’m currently learning next.js
 - I'm learn HTML, CSS Javascript, React, java, C++
-- 💞️ I’m building to collaborate on Disney+hotstar clone.
+- 💞️ I’m building to collaborate on Disney+hotstar clone using react and redux and firebase.
 - Thia is the preview of disney+Hotstar clone = https://reverent-carson-ec6af7.netlify.app/
+- I, make Tesla clone using react, preview = https://hemkant2000.github.io/Tesla-website/
 - 📫 How to reach me = hemkantkushwaha831963@gmail.com
 
 <!---
